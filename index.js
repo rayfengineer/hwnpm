@@ -3,7 +3,7 @@ module.export = function(nums, k) {
 	swap(nums, 0, swapLen - 1);
 	swap(nums, swapLen, nums.length - 1);
 	swap(nums, 0, nums.length - 1);
-	console.log('Hello world', nums);
+	console.log('Hello World');
 	return nums;
 };
 
