@@ -1,0 +1,17 @@
+{
+	"name": "@fengineer/hello-world",
+	"version": "1.0.0",
+	"description": "First npm package pulished",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "fengineer",
+	"license": "ISC",
+	"keywords": [
+		"hello world",
+		"npm",
+		"package",
+		"rotate"
+	]
+}
